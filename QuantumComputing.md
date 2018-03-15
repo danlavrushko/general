@@ -40,11 +40,11 @@ D-Wave's computers cost about $10m-15m. [BBC on Quantum Computing](http://www.bb
 
 To simulate 260 qubits on clasical computer, you would need more bits than there are atoms in the known universe. [We Have the Qubits You Want](https://www.barrons.com/articles/microsoft-we-have-the-qubits-you-want-1519434417)# Qubit
 
-# Qubit
+## Qubit
 
 [Video](https://youtu.be/5p2_moQZJWo?t=3m6s)
 
-# Quanum Computer Model
+## Quanum Computer Model
 
 [Video](https://youtu.be/5p2_moQZJWo?t=10m27s)
 
