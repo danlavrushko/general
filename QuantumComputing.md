@@ -66,6 +66,7 @@ To simulate 260 qubits on clasical computer, you would need more bits than there
 1. [Quantum computer wiki (Ukrainian)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80)
 1. [Quantum vs Classical Algorithms](https://www.quantamagazine.org/quantum-computers-struggle-against-classical-algorithms-20180201/)
 1. [We Have the Qubits You Want](https://www.barrons.com/articles/microsoft-we-have-the-qubits-you-want-1519434417)
+1. [Hitchhiker’s Guide to the Quantum Computing](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 
 ## Books
 1. [Вакарчук, Квантова механіка](http://old.physics.lnu.edu.ua/depts/KTF/books/QM4/QM4.pdf)
