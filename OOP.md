@@ -1,7 +1,7 @@
 # Abstraction
 
 * emphasis on the idea, qualities and properties rather than the particulars (a suppression of detail)
-* emphasis on what an object is or does rather than how it is represented or how it works [Intro to OOP](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
+* emphasis on what an object is or does rather than how it is represented or how it works. [Intro to OOP](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
 
 # Encapsulation
 
@@ -17,5 +17,5 @@
 # Polymorphism 
 
 * means that you can have multiple classes that can be used interchangeably, even though each class implements the same properties or methods in different ways. [MSFTDocs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
-* the ability to request that the same operations be performed by a wide range of different types of things
-* is achieved by using many different techniques named method overloading, operator overloading, and method overriding
+* the ability to request that the same operations be performed by a wide range of different types of things.
+* is achieved by using many different techniques named method overloading, operator overloading, and method overriding. [Intro to OOP](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
