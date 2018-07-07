@@ -5,6 +5,7 @@
 * **Client** - a piece of software that requests tokens from IdentityServer
     * for authenticating a user (requesting an **identity token**)
     * for accessing a resource (requesting an **access token**)
+* **Scopes** define the resources in your system that you want to protect, e.g. APIs.
 
 1. [Docs](http://docs.identityserver.io/en/release/intro/terminology.html)
 
