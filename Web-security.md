@@ -1,3 +1,13 @@
+# IdentityServer4
+* **IdentityServer**
+    * an OpenID Connect provider - it implements the OpenID Connect and OAuth 2.0 protocols
+    * a piece of software that issues security tokens to clients
+* **Client** - a piece of software that requests tokens from IdentityServer
+    * for authenticating a user (requesting an **identity token**)
+    * for accessing a resource (requesting an **access token**)
+
+1. [Docs](http://docs.identityserver.io/en/release/intro/terminology.html)
+
 # OpenID Connect
 
 * **JWT** = JSON Web Token
