@@ -7,6 +7,8 @@
     * for accessing a resource (requesting an **access token**)
 * **Scopes** define the resources in your system that you want to protect, e.g. APIs.
 
+The presence (or absence) of the `sub` claim lets the API distinguish between calls on behalf of **clients** and calls on behalf of **users**.
+
 1. [Docs](http://docs.identityserver.io/en/release/intro/terminology.html)
 
 # OpenID Connect
